@@ -25,7 +25,7 @@ public class BaiTap1Main {
         c.setTinhToan(new Tru());
         System.out.print(c.tinh(54f, 78f));
         //System.out.println("hello");
-        h t sửa file ne :)
+       
     }
     
 }
